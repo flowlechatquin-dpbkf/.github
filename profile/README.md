@@ -1,12 +1,1 @@
-## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+# *𝚁𝚎𝚐𝚊𝚛𝚍𝚎𝚛> 𝚅𝚘𝚒𝚛 - *𝙵𝚕𝚘𝚠, 𝚕𝚎 𝚌𝚑𝚊𝚝 𝚚𝚞𝚒 𝚗'𝚊𝚟𝚊𝚒𝚝 𝚙𝚕𝚞𝚜 𝚙𝚎𝚞𝚛 𝚍𝚎 𝚕'𝚎𝚊𝚞 (2024) 𝙵𝚒𝚕𝚖 𝙲𝚘𝚖𝚙𝚕𝚎𝚝 𝙴𝚗 𝚕𝚒𝚐𝚗𝚎 𝚂𝚝𝚛𝚎𝚊𝚖 𝚅𝚏
